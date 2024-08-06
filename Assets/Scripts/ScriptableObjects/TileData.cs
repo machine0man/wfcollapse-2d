@@ -13,11 +13,17 @@ namespace Nature
 		[SerializeField] List<int> m_lstRight;
 		[SerializeField] List<int> m_lstBottom;
 
+		
+
 		public int UId => m_uId;
 		public Sprite SpriteTile => m_spriteTile;
 		public IReadOnlyList<int> LstTop => m_lstTop.AsReadOnly();
 		public IReadOnlyList<int> LstLeft => m_lstLeft.AsReadOnly();
 		public IReadOnlyList<int> LstRight => m_lstRight.AsReadOnly();
 		public IReadOnlyList<int> LstBottom => m_lstBottom.AsReadOnly();
+		void Hello()
+		{ 
+			
+		}
 	}
 }

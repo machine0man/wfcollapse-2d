@@ -316,7 +316,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.15686275, g: 0.15686275, b: 0.15686275, a: 1}
+  m_BackGroundColor: {r: 0.16470589, g: 0.16470589, b: 0.16470589, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -808,6 +808,34 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7619181998680391410, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8585674680572650017, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
+      propertyPath: m_Pivot.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8585674680572650017, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8585674680572650017, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8585674680572650017, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8585674680572650017, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8585674680572650017, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8585674680572650017, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
+      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8585674680572650018, guid: 38cdc6caf88de5b4dacebfd9331e6c13, type: 3}
